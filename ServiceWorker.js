@@ -1,9 +1,9 @@
 const cacheName = "RPS Software-RPSWebAppTutorial-0.1.0";
 const contentToCache = [
-    "Build/8 - File Loading.loader.js",
-    "Build/8 - File Loading.framework.js",
-    "Build/8 - File Loading.data",
-    "Build/8 - File Loading.wasm",
+    "Build/9 - Shaders Fix.loader.js",
+    "Build/9 - Shaders Fix.framework.js",
+    "Build/9 - Shaders Fix.data",
+    "Build/9 - Shaders Fix.wasm",
     "TemplateData/style.css"
 
 ];
